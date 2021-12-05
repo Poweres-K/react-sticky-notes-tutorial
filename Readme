@@ -1,0 +1,3 @@
+cd to src
+npm install
+npm run serve
